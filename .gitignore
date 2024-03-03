@@ -1,3 +1,4 @@
 02_ignored.py
 
-data1
+data1\*.parquet
+data1\*.csv
